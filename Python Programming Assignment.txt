@@ -1,0 +1,112 @@
+## 🟢 Easy Level (1–40)
+
+1. Write a Python program to print "Hello, World!".
+2. Write a program to add two numbers.
+3. Write a program to find the square root of a number.
+4. Write a program to calculate the area of a triangle.
+5. Write a program to swap two variables.
+6. Write a program to generate a random number.
+7. Write a program to convert kilometers to miles.
+8. Write a program to convert Celsius to Fahrenheit.
+9. Write a program to check if a number is positive, negative or zero.
+10. Write a program to check if a number is odd or even.
+11. Write a program to check if a year is a leap year.
+12. Write a program to find the largest among three numbers.
+13. Write a program to check if a number is prime.
+14. Write a program to print all prime numbers in an interval.
+15. Write a program to find the factorial of a number.
+16. Write a program to display the multiplication table.
+17. Write a program to print the Fibonacci sequence.
+18. Write a program to check Armstrong numbers.
+19. Write a program to find Armstrong numbers in an interval.
+20. Write a program to find the sum of natural numbers.
+21. Write a program to find the LCM of two numbers.
+22. Write a program to find the HCF of two numbers.
+23. Write a program to convert decimal to binary, octal and hexadecimal.
+24. Write a program to find ASCII value of a character.
+25. Write a program to find the simple interest.
+26. Write a program to calculate the compound interest.
+27. Write a program to find the area of a circle.
+28. Write a program to find the area of a rectangle.
+29. Write a program to find the area of a square.
+30. Write a program to find the perimeter of a triangle.
+31. Write a program to find the perimeter of a rectangle.
+32. Write a program to find the perimeter of a square.
+33. Write a program to find the circumference of a circle.
+34. Write a program to calculate the average of numbers.
+35. Write a program to find the maximum of two numbers.
+36. Write a program to find the minimum of two numbers.
+37. Write a program to check if a character is a vowel or consonant.
+38. Write a program to check if a character is an alphabet or not.
+39. Write a program to check if a character is uppercase or lowercase.
+40. Write a program to convert lowercase to uppercase and vice versa.
+
+---
+
+## 🟡 Medium Level (41–80)
+
+41. Write a program to count the number of vowels in a string.
+42. Write a program to count the number of consonants in a string.
+43. Write a program to count the number of digits in a number.
+44. Write a program to reverse a string.
+45. Write a program to check if a string is a palindrome.
+46. Write a program to remove punctuation from a string.
+47. Write a program to sort words in alphabetic order.
+48. Write a program to remove duplicate elements from a list.
+49. Write a program to find the second largest number in a list.
+50. Write a program to find the second smallest number in a list.
+51. Write a program to merge two lists.
+52. Write a program to find the common elements in two lists.
+53. Write a program to find the difference between two lists.
+54. Write a program to find the union of two lists.
+55. Write a program to find the intersection of two lists.
+56. Write a program to find the sum of elements in a list.
+57. Write a program to find the average of elements in a list.
+58. Write a program to find the maximum and minimum elements in a list.
+59. Write a program to remove all occurrences of a specific element from a list.
+60. Write a program to count the frequency of elements in a list.
+61. Write a program to check if a list is empty.
+62. Write a program to clone or copy a list.
+63. Write a program to remove empty lists from a list.
+64. Write a program to flatten a nested list.
+65. Write a program to remove duplicates from a dictionary.
+66. Write a program to merge two dictionaries.
+67. Write a program to sort a dictionary by key.
+68. Write a program to sort a dictionary by value.
+69. Write a program to check if a key exists in a dictionary.
+70. Write a program to iterate over dictionary items.
+71. Write a program to generate a dictionary of squares of numbers.
+72. Write a program to find the sum of all items in a dictionary.
+73. Write a program to find the length of a dictionary.
+74. Write a program to remove a key from a dictionary.
+75. Write a program to get the maximum and minimum values in a dictionary.
+76. Write a program to count the number of characters in a string.
+77. Write a program to count the number of words in a string.
+78. Write a program to count the number of lines in a text file.
+79. Write a program to read a file line by line and store it into a list.
+80. Write a program to find the longest word in a text file.
+
+---
+
+## 🔴 Hard Level (81–100)
+
+81. Write a program to implement a binary search algorithm.
+82. Write a program to implement a linear search algorithm.
+83. Write a program to implement a bubble sort algorithm.
+84. Write a program to implement a selection sort algorithm.
+85. Write a program to implement an insertion sort algorithm.
+86. Write a program to implement a merge sort algorithm.
+87. Write a program to implement a quick sort algorithm.
+88. Write a program to implement a stack using a list.
+89. Write a program to implement a queue using a list.
+90. Write a program to implement a linked list.
+91. Write a program to implement a binary tree.
+92. Write a program to implement a graph using adjacency list.
+93. Write a program to implement depth-first search (DFS).
+94. Write a program to implement breadth-first search (BFS).
+95. Write a program to implement Dijkstra's algorithm.
+96. Write a program to implement a simple calculator using classes.
+97. Write a program to create a class and implement inheritance.
+98. Write a program to create a class and implement polymorphism.
+99. Write a program to create a class and implement encapsulation.
+100. Write a program to create a class and implement abstraction.
